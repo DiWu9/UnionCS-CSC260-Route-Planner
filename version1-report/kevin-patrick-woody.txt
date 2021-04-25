@@ -1,0 +1,24 @@
+Overall: 88
+
+Thanks for producing a single pdf report for me to read.  That really
+made grading easier!
+
+
+Testing Report ( 13 / 15)
+--------------
+
+-2: It's not clear from the report what the tests actually were.  The
+ names of the testing methods aren't really enough.
+
+Design Documentation ( 15 / 20)
+-------------------------------
+
+It's not clear what the arrows mean in the diagrams (I think the
+arrows might be on the wrong ends of the segments). 
+
+Design ( 25 / 30)
+-----------------
+
+Not clear how you'd add more file formats.  It's good to have the
+FileHandlerInterface, but seems like you'd need an if chain to choose
+which implementing class to use.

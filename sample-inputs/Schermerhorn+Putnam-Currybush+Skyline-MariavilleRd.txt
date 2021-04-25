@@ -1,0 +1,1 @@
+Type,Notes,Distance (miles) From StartStart,Start of route,0Right,Turn right onto Putnam Rd,0Left,Turn left onto NY-159 E,1.6Right,Turn right onto Currybush Rd,2.36End,End of route,6.02
